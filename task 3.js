@@ -28,3 +28,4 @@ const people = [
     { name: 'fahmi', age: 35 }      
 ];
 console.log(groupByAge(people)); 
+//Output: { '25': ['zied', 'mohamed'], '30': ['yehia', 'olfa'], '35': ['fahmi'] }
